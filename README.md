@@ -10,7 +10,7 @@ Decidimos criar esta plataforma de emprego porque reconhecemos que a busca por e
 
 Metas e objetivos são fornecer uma plataforma de emprego eficiente, fácil de usar e com segurança garantida. Queremos criar uma experiência de usuário agradável, para que os usuários possam navegar facilmente pela plataforma, encontrar empregos relevantes e se candidatar com facilidade. Com a nossa plataforma, esperamos tornar o processo de busca de emprego mais rápido e eficiente para candidatos e empregadores.
 
-Metodologia
+Metodologia 
 
 
 Para o desenvolvimento da plataforma utilizei as seguintes tecnologias HTML, CSS, JavaScript, PHP e Bootstrap-5. O único responsável no desenvolvimento do projeto.
