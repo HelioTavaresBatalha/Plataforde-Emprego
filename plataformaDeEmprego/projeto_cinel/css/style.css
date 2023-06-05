@@ -1,0 +1,11 @@
+section#home{
+    position: absolute;
+    top:0;
+    margin: 160px;
+    width: 100%;  
+    margin-left: auto; 
+    margin-right: auto;
+}
+#home {
+    transition: 2s;
+}

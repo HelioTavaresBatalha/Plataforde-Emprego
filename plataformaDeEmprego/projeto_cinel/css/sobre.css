@@ -1,0 +1,11 @@
+@charset "UTF8";
+body {
+      
+}
+.sobre {
+    padding: 30px;
+    margin: 70px 20px;
+    text-align: justify;  
+    line-height:1.8em;
+    font-family:'Times New Roman', Times, serif;
+}
